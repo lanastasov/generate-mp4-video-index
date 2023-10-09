@@ -1,4 +1,4 @@
-module generate-mp4-video-index
+module github.com/lanastasov/generate-mp4-video-index
 
 go 1.20
 
